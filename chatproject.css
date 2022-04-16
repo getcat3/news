@@ -1,0 +1,26 @@
+.chat{
+    margin: auto;
+    width: 500px;
+    
+}
+.container{
+    background-image: radial-gradient(circle, #57c9da, #57c5e0, #5cc0e5, #66bbe8, #73b5e9, #76b1f1, #7fabf7, #8ea4fa, #a19aff, #bb8cff, #db7aff, #fb5ff5);
+}
+.input{
+    width: 75%;
+}
+.child{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+}
+.text{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+}
+.hedline{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+}
